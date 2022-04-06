@@ -8,5 +8,5 @@ FROM mongo:5.0.6
 FROM mysql:8.0.28
 FROM postgres:14.2
 FROM confluentinc/cp-zookeeper:7.0.1
-FROM confluentinc/cp-kafka:7.0.1
+FROM confluentinc/cp-kafka:7.1.0
 FROM tchiotludo/akhq:0.20.0
