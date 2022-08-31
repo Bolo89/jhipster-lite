@@ -10,5 +10,5 @@ FROM mcr.microsoft.com/mssql/server:2019-CU15-ubuntu-20.04
 FROM postgres:14.4
 FROM confluentinc/cp-zookeeper:7.1.1
 FROM confluentinc/cp-kafka:7.1.1
-FROM tchiotludo/akhq:0.21.0
+FROM tchiotludo/akhq:0.22.0
 FROM apachepulsar/pulsar:2.10.1
